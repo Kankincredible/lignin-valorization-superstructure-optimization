@@ -1,1 +1,1 @@
-# lignin-valorization-superstructure-optimization
+# Lignin valorization superstructure optimization
