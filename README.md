@@ -3,6 +3,9 @@
 ## Overview
 Welcome to the repository for the "A Superstructure-Based Lignin Valorization Process Optimization Model for Lignocellulosic Biorefineries through Biological Upgrading" project. This repository serves as a comprehensive resource for researchers and practitioners in the field of lignocellulosic biorefinery optimization. It contains the necessary code and data to facilitate the understanding and application of approaches to valorize lignin through biological upgrading methods.
 
+![Lignin Valorization Superstructure](images/superstructure.png "Lignin Valorization Superstructure Overview")
+
+
 ## Repository Structure
 The repository is organized into several key directories, each serving a specific purpose in the context of the project:
 
