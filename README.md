@@ -27,7 +27,7 @@ Contributions to this project are welcome. Please refer to the `CONTRIBUTING.md`
 This project is licensed under the MIT License.
 
 ## Contact
-For any queries or further information, please contact the project maintainers at [email@email.com](mailto:yzw301@psu.edu).
+For any queries or further information, please contact the project maintainers at [yzw301@psu.edu](mailto:yzw301@psu.edu).
 
 ## Acknowledgments
 Special thanks to all contributors and supporters of this project. Your efforts have been instrumental in advancing the field of lignocellulosic biorefinery optimization.
